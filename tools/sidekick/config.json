@@ -2,4 +2,19 @@
   "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+    "plugins": [
+    {
+      "title": "Swaroop DEV",
+      "id": "env-badge",
+      "isBadge": true,
+      "badgeVariant": "blue",
+      "environments": [
+        "edit",
+        "dev",
+        "preview",
+        "live",
+        "prod"
+      ]
+    }
+  ]
 }
