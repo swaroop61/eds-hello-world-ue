@@ -40,7 +40,7 @@
     ]
   },
   {
-    "id": "richtext",
+    "id": "text",
     "rte": {
       "actions": {
         "link": {
@@ -51,7 +51,7 @@
       }
     },
     "components": [
-      "richtext"
+      "text"
     ]
   }
 ]
