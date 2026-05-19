@@ -44,9 +44,7 @@
     "rte": {
       "actions": {
         "link": {
-          "hideTarget": false,
-          "shortcut": "Mod-K",
-          "label": "Add Link"
+          "hideTarget": false
         }
       }
     },
