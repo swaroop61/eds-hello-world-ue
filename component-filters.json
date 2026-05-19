@@ -42,9 +42,6 @@
   {
     "id": "richtext",
     "rte": {
-      "toolbar": {
-        // Toolbar configuration
-      },
       "actions": {
         "link": {
           "hideTarget": false,
